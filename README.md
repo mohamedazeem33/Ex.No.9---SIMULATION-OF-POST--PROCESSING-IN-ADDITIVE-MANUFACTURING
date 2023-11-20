@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![EMP9](https://github.com/Jayamani25/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/85949888/623776d9-5d35-4fbe-b67a-ec29e019b7c2)
+
+
+### Name: MOHAMED AZEEM N
+### Register Number: 212222110026
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
